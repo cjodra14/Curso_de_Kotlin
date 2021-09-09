@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AppClima</string>
+    <string name="texto_grados">18ºC</string>
+    <string name="texto_ciudad">Barakaldo</string>
+    <string name="texto_estado">Soleado</string>
+    <string name="texto_bienvenida">
+        Bienvenido a esta app del clima, para poder ver el clima de una ciudad, selecciona entre
+        una de las siguientes ciudades.
+    </string>
+    <string name="txt_btn_1">Tiempo en Barakaldo</string>
+    <string name="txt_btn_2">Tiempo en Santurtzi</string>
+    <string name="txt_btn_3">Tiempo en Bilbo</string>
+    <string name="txt_btn_4">Tiempo en Muskiz</string>
+</resources>

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MiPrimeraApp</string>
+    <string name="name_text">Escribe tu nombre:</string>
+</resources>
