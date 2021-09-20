@@ -4,8 +4,11 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Apps/EjemploToolBar/app/src/main/res/drawable/ic_fav.xml" value="0.2984375" />
+        <entry key="..\:/Apps/EjemploToolBar/app/src/main/res/drawable/ic_search_black_24dp.xml" value="0.2828125" />
         <entry key="..\:/Apps/EjemploToolBar/app/src/main/res/layout/activity_main.xml" value="0.2513586956521739" />
+        <entry key="..\:/Apps/EjemploToolBar/app/src/main/res/layout/activity_pantalla_dos.xml" value="0.26666666666666666" />
         <entry key="..\:/Apps/EjemploToolBar/app/src/main/res/menu/menu.xml" value="0.2859375" />
+        <entry key="..\:/Apps/EjemploToolBar/app/src/main/res/menu/menu_pantalla_dos.xml" value="0.26666666666666666" />
       </map>
     </option>
   </component>
